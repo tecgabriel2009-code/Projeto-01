@@ -1,0 +1,6 @@
+{
+  "name": "Gestão Industrial",
+  "description": "Aplicativo de gestão industrial de equipamentos, ferramentas técnicas, laboratório, bombas e redutores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
